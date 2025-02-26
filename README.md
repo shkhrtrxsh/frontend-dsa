@@ -17,7 +17,7 @@ I will mark `[x]` when I complete each problem.
 - [x] **[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)**
 - [x] **[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)**
 - [x] **[Maximum Subarray (Kadane’s Algorithm)](https://leetcode.com/problems/maximum-subarray/)**
-- [ ] **[Merge Intervals](https://leetcode.com/problems/merge-intervals/)**
+- [x] **[Merge Intervals](https://leetcode.com/problems/merge-intervals/)**
 - [ ] **[Rotate Array](https://leetcode.com/problems/rotate-array/)**
 - [ ] **[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)**
 - [ ] **[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)**
