@@ -23,7 +23,7 @@ I will mark `[x]` when I complete each problem.
 - [x] **[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)**
 - [x] **[Valid Anagram](https://leetcode.com/problems/valid-anagram/)**
 - [x] **[Group Anagrams](https://leetcode.com/problems/group-anagrams/)**
-- [ ] **[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)**
+- [x] **[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)**
 
 ---
 
