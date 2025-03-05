@@ -28,7 +28,7 @@ I will mark `[x]` when I complete each problem.
 ---
 
 ## 📌 **2. HashMap / Object Manipulation**
-- [ ] **[Two Sum (Using HashMap)](https://leetcode.com/problems/two-sum/)**
+- [x] **[Two Sum (Using HashMap)](https://leetcode.com/problems/two-sum/)**
 - [ ] **[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)**
 - [ ] **[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)**
 - [ ] **[Majority Element](https://leetcode.com/problems/majority-element/)**
