@@ -32,7 +32,7 @@ I will mark `[x]` when I complete each problem.
 - [x] **[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)**
 - [x] **[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)**
 - [x] **[Majority Element](https://leetcode.com/problems/majority-element/)** (REVISE)
-- [ ] **[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)**
+- [x] **[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)** [i/3 j/3] for box index
 
 ---
 
