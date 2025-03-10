@@ -37,7 +37,7 @@ I will mark `[x]` when I complete each problem.
 ---
 
 ## 📌 **3. Stacks & Queues**
-- [ ] **[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)**
+- [x] **[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)**
 - [ ] **[Min Stack](https://leetcode.com/problems/min-stack/)**
 - [ ] **[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)**
 - [ ] **[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)**
