@@ -40,7 +40,7 @@ I will mark `[x]` when I complete each problem.
 - [x] **[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)**
 - [x] **[Min Stack](https://leetcode.com/problems/min-stack/)**
 - [x] **[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)**
-- [ ] **[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)**
+- [x] **[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)** (revise)
 - [ ] **[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)**
 
 ---
