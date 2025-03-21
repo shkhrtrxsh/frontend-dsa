@@ -41,7 +41,7 @@ I will mark `[x]` when I complete each problem.
 - [x] **[Min Stack](https://leetcode.com/problems/min-stack/)**
 - [x] **[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)**
 - [x] **[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)** (revise)
-- [ ] **[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)**
+- [x] **[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)** (revise)
 
 ---
 
