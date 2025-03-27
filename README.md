@@ -49,7 +49,7 @@ I will mark `[x]` when I complete each problem.
 - [x] **[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)**
 - [x] **[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)**
 - [x] **[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)**
-- [ ] **[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)**
+- [x] **[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)** (revise)
 - [ ] **[Reorder List](https://leetcode.com/problems/reorder-list/)**
 
 ---
