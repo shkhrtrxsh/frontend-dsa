@@ -56,7 +56,7 @@ I will mark `[x]` when I complete each problem.
 
 ## 📌 **5. Trees & Graphs (Only Basics Needed)**
 - [x] **[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)**
-- [ ] **[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)**
+- [x] **[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)**
 - [ ] **[Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)**
 
 ---
