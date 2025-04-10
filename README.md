@@ -62,7 +62,7 @@ I will mark `[x]` when I complete each problem.
 ---
 
 ## 📌 **6. Sliding Window (Optimizing Loops)**
-- [ ] **[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)**
+- [x] **[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)**
 - [ ] **[Permutation in String](https://leetcode.com/problems/permutation-in-string/)**
 - [ ] **[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)**
 - [ ] **[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)**
