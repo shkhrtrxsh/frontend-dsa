@@ -65,7 +65,7 @@ I will mark `[x]` when I complete each problem.
 - [x] **[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)**
 - [x] **[Permutation in String](https://leetcode.com/problems/permutation-in-string/)**
 - [x] **[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)**
-- [ ] **[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)**
+- [x] **[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)**
 
 ---
 
