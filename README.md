@@ -19,7 +19,7 @@ I will mark `[x]` when I complete each problem.
 - [x] **[Maximum Subarray (Kadane’s Algorithm)](https://leetcode.com/problems/maximum-subarray/)**
 - [x] **[Merge Intervals](https://leetcode.com/problems/merge-intervals/)**
 - [x] **[Rotate Array](https://leetcode.com/problems/rotate-array/)**
-- [x] **[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)**
+- [x] **[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)** (REVISE!)
 - [x] **[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)**
 - [x] **[Valid Anagram](https://leetcode.com/problems/valid-anagram/)**
 - [x] **[Group Anagrams](https://leetcode.com/problems/group-anagrams/)**
