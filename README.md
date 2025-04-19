@@ -20,7 +20,7 @@ I will mark `[x]` when I complete each problem.
 - [x] **[Merge Intervals](https://leetcode.com/problems/merge-intervals/)**
 - [x] **[Rotate Array](https://leetcode.com/problems/rotate-array/)**
 - [x] **[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)** (REVISE!)
-- [x] **[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)**
+- [x] **[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)** (REVISE!)
 - [x] **[Valid Anagram](https://leetcode.com/problems/valid-anagram/)**
 - [x] **[Group Anagrams](https://leetcode.com/problems/group-anagrams/)**
 - [x] **[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)**
